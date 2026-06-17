@@ -1,5 +1,7 @@
 # Payment Gateway
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/payment-gateway/actions)
 [![CI](https://github.com/koketseraphasha/payment-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/payment-gateway/actions/workflows/ci.yml)
 
 Payment processing gateway for banking systems. Handles payment requests, transaction validation, merchant management, and settlement.
